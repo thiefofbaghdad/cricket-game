@@ -1,4 +1,4 @@
-# cricket-betting
+# Cricket Games
 <br><br>
 Owners: Dirgh Rabadia, Saurabh Mishra, Aneesha Kulkarni and Vishal Anand
 <br><br>
